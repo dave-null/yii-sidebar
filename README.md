@@ -1,4 +1,4 @@
 yii-sidebar
 ===========
 
-A Sidebar Class for using with Yii Framework.
+yii-sidebar lets you register widgets using a container class mehtod.
